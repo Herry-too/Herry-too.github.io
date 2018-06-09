@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+webrick:
+  headers:
+    My-Header: Herry的静态小站
+    My-Other-Header: Herry的静态小站
